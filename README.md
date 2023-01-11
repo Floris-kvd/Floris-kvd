@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Badduck
 - 👀 I’m interested in programming (duh)
-- 🌱 I’m learning game development (currently in Godot)
+- 🌱 I’m learning game development (currently in LÖVE2D)
 - 💞️ I’m looking to collaborate on anything honestly
 
 <!---
